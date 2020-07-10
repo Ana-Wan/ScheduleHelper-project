@@ -1,5 +1,5 @@
 ## Project Description
-This is a CS348 project I worked on in a team of 4. The Application helps students find courses that fit their current schedule. Students can upload their schedule and the app will generate a list of courses they can add while excluding the courses that do not fit into their schedule, their past courses and antirequisites. 
+The Application helps students find courses that fit their current schedule. Students can upload their schedule and the app will generate a list of courses they can add while excluding the courses that do not fit into their schedule, their past courses and antirequisites. 
 
 The project uses University of Waterloo's Open Data API to leverage data on Waterloo's term subjects, courses and classes. 
 
@@ -15,9 +15,6 @@ https://drive.google.com/drive/folders/1qGF9pTrJ-6oCxkSjFnNiuArmj61LG4bq?usp=sha
 - Sunny Yang
 - Keat Chong
 - Alex Wang
-
-## Running the Project
-The Frontend and Backend Repositories contain instructions on how to run the project.
 
 ## Features
 - A simple user signup and login. The username gets stored in the database.
