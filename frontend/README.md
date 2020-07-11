@@ -1,9 +1,5 @@
-https://cs348-webapp10.appspot.com
 
-## Frontend repo description
-TODO
-
-## Compile:
+## Compile the project:
 yarn
 
 ## Start the app in local:
