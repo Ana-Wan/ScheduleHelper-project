@@ -34,11 +34,9 @@ postgres=# `CREATE DATABASE schedulemaker`
 #### To run scripts for local database:
 
 ### You can try this:
-python3 ./database/scripts/execute_sql.py -f createtables -u yourUsername -p yourPassword
+python3 ./database/scripts/execute_sql.py -f createtables
 
 ### To Populate all data into local database:
-python3 ./database/scripts/populate_tables.py -u yourUsername -p yourPassword
+python3 ./database/scripts/populate_tables.py
 
-### To Populate specific table into local database:
-python3 ./database/scripts/populate_tables.py -t 'table_you_want_to_populate' -u yourUsername -p yourPassword
-
+Populating the table might take around 10 mins.
