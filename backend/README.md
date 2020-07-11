@@ -42,14 +42,3 @@ python3 ./database/scripts/populate_tables.py -u yourUsername -p yourPassword
 ### To Populate specific table into local database:
 python3 ./database/scripts/populate_tables.py -t 'table_you_want_to_populate' -u yourUsername -p yourPassword
 
-
-### For connecting to production database:
-Download cloud_sql_proxy in your root folder and execute:
-
-For development database:
-
-`./cloud_sql_proxy -instances=cs348-database10:us-central1:cs348db=tcp:3306`
-
-For development database:
-
-`./cloud_sql_proxy -instances=cs348-database10:us-central1:cs348-production-db=tcp:3306`
