@@ -1,7 +1,7 @@
 https://cs348-database10.appspot.com/courses
 
 
-## 1. Install virtual env for python(only do once if you don't have pipenv downloaded)
+## 1. Install virtual env for python
 pip install pipenv
 
 ## 2. Activate virtual environment
