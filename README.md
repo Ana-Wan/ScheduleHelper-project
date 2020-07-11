@@ -55,7 +55,7 @@ The queries for creating tables are located in the file /backend/database/create
 The backend app will execute that sql file which creates the tables for the SQL database.
 
 ## How the Web app receives data from the SQL database
-The backend grabs the data from SQL database in gcp (via sqlalchemy) and sends that data to the web app whenever the webapp executes a GET request to the backend API (on /courses route).
+The backend grabs the data from the local SQL database (via sqlalchemy) and sends that data to the web app whenever the webapp executes a GET request to the backend API (on /courses route).
 The App can also send data to the backend using POST requests that will be used to update the table such as for adding a new
 user to AppUser
 
