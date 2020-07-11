@@ -1,4 +1,5 @@
-A Schedule Helper Application created for cs348 (Introduction to Database Management) course to mainly showcase the use of SQL.
+# UWaterloo Schedule Helper Application
+A schedule helper Application created for cs348 (Introduction to Database Management) course to mainly showcase the use of SQL.
 The app is developed using Posgres, React JS(frontend) and Python3(backend).
 
 ## Project Description
