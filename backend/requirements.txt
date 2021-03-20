@@ -9,7 +9,7 @@ Flask-RESTful==0.3.7
 gunicorn==19.7.0
 idna==2.8
 itsdangerous==1.1.0
-Jinja2==2.10.3
+Jinja2==2.11.3
 MarkupSafe==1.1.1
 marshmallow==3.3.0
 pg8000==1.13.2
